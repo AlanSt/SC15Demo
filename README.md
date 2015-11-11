@@ -1,5 +1,4 @@
 # SC15Demo
-SC 15 Demo Links
 
 ##Deploying individual VMs at scale
 This template creates a large number of individual VMs (up to 500).  Individual VMs can use almost all of the customization features within Azure.  This is designed to show how to add this to your code, there is no jump box or inbound NAT rule for accessing the VMs.
